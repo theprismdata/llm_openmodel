@@ -1,4 +1,11 @@
 ## Ollama를 사용하여 Open Large Language Model을 수행하는 예제 코드입니다.
+### Package 설치
+```
+python3.10 -m venv .venv
+.venv\Scripts\activate.bat
+pip3 install -r requirements.txt
+```
+
 ### Chat 모드 예제
 모델 다운로드 
 ```
