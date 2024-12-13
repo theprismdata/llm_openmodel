@@ -1,0 +1,5 @@
+ollama
+llama-index==0.10.32
+langchain
+langchain_community
+llama-index-embeddings-ollama
