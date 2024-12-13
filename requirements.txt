@@ -1,5 +1,5 @@
 ollama
 llama-index==0.10.32
-langchain
-langchain_community
-llama-index-embeddings-ollama
+langchain==0.3.1
+langchain_community==0.3.1
+llama-index-embeddings-ollama==0.5.0
